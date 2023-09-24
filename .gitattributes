@@ -1,0 +1,2 @@
+project/archive/Fitabase[[:space:]]Data[[:space:]]4.12.16-5.12.16/heartrate_seconds_merged.csv filter=lfs diff=lfs merge=lfs -text
+project/archive/Fitabase[[:space:]]Data[[:space:]]4.12.16-5.12.16/minuteCaloriesNarrow_merged.csv filter=lfs diff=lfs merge=lfs -text
